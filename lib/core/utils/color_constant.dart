@@ -16,6 +16,8 @@ class ColorConstant {
 
   static Color gray50 = fromHex('#f9fbff');
     static Color gray70011 = fromHex('#11555555');
+      static Color blueGray800 = fromHex('#37334d');
+
 
 
   static Color fromHex(String hexString) {

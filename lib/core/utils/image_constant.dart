@@ -22,5 +22,9 @@ class ImageConstant {
 
   static String imgNotification = 'assets/images/img_notification.svg';
   static String imgFilter = 'assets/images/img_filter.svg';
+    static String imgEllipse5150x150 = 'assets/images/img_ellipse5_150x150.png';
+      static String imgForward = 'assets/images/img_forward.svg';
+
+
 
 }

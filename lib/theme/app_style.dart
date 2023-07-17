@@ -83,5 +83,12 @@ class AppStyle {
     fontFamily: 'Gilroy',
     fontWeight: FontWeight.w600,
   );
-
+ static TextStyle txtGilroyMedium16Bluegray800 = TextStyle(
+    color: ColorConstant.blueGray800,
+    fontSize: getFontSize(
+      16,
+    ),
+    fontFamily: 'Gilroy',
+    fontWeight: FontWeight.w500,
+  );
 }
